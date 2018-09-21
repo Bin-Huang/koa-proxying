@@ -1,0 +1,27 @@
+{
+  "name": "koa-proxy",
+  "version": "1.0.0",
+  "description": "a simple http proxy tool for koa",
+  "main": "./dist/proxy.js",
+  "typings": "./dist/proxy.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proxy",
+    "http",
+    "koa"
+  ],
+  "author": "Ben Huang",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  },
+  "peerDependencies": {
+    "koa": "2.5.3"
+  },
+  "devDependencies": {
+    "@types/http-proxy": "1.16.2",
+    "@types/koa": "^2.0.46"
+  }
+}
