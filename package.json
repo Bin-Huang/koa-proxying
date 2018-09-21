@@ -1,6 +1,6 @@
 {
   "name": "koa-proxying",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple http proxy tool for koa",
   "main": "./dist/proxy.js",
   "typings": "./dist/proxy.d.ts",
@@ -10,7 +10,8 @@
   "keywords": [
     "proxy",
     "http",
-    "koa"
+    "koa",
+    "koa-proxy"
   ],
   "author": "Ben Huang",
   "license": "MIT",
