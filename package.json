@@ -1,7 +1,7 @@
 {
   "name": "koa-proxying",
   "version": "1.0.1",
-  "description": "a simple http proxy tool for koa",
+  "description": "🎉 simple HTTP proxying tool for koa, easier to use",
   "main": "./dist/proxy.js",
   "typings": "./dist/proxy.d.ts",
   "scripts": {
@@ -11,9 +11,14 @@
     "proxy",
     "http",
     "koa",
-    "koa-proxy"
+    "koa-proxy",
+    "http-proxy"
   ],
-  "author": "Ben Huang",
+	"repository": "Bin-Huang/koa-proxying",
+	"author": {
+		"name": "Ben Huang",
+		"email": "tohuangbin@gmail.com"
+	},
   "license": "MIT",
   "dependencies": {
     "http-proxy": "^1.17.0"
