@@ -1,5 +1,5 @@
 {
-  "name": "koa-proxy",
+  "name": "koa-proxying",
   "version": "1.0.0",
   "description": "a simple http proxy tool for koa",
   "main": "./dist/proxy.js",

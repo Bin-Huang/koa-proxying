@@ -1,9 +1,9 @@
-## koa-proxy
+## koa-proxying
 
 Just a very simple HTTP proxying tool for koa, bases on http-proxy.
 
 ```javascript
-const proxy = require('koa-proxy')
+const proxy = require('koa-proxying')
 const Koa = require('koa')
 const app = new Koa()
 
