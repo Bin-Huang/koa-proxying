@@ -14,11 +14,11 @@
     "koa-proxy",
     "http-proxy"
   ],
-	"repository": "Bin-Huang/koa-proxying",
-	"author": {
-		"name": "Ben Huang",
-		"email": "tohuangbin@gmail.com"
-	},
+  "repository": "Bin-Huang/koa-proxying",
+  "author": {
+    "name": "Ben Huang",
+    "email": "tohuangbin@gmail.com"
+  },
   "license": "MIT",
   "dependencies": {
     "http-proxy": "^1.17.0"
@@ -29,5 +29,15 @@
   "devDependencies": {
     "@types/http-proxy": "1.16.2",
     "@types/koa": "^2.0.46"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Bin-Huang/koa-proxying/issues"
+  },
+  "homepage": "https://github.com/Bin-Huang/koa-proxying#koa-proxying",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "maintainers": [
+    "Ben Huang <tohuangbin@gmail.com>"
+  ]
 }
