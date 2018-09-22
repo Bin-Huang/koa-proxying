@@ -1,6 +1,6 @@
 {
   "name": "koa-proxying",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🎉 simple HTTP proxying tool for koa, easier to use",
   "main": "./dist/proxy.js",
   "typings": "./dist/proxy.d.ts",
