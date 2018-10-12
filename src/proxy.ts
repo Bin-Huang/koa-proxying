@@ -1,4 +1,4 @@
-import httpProxy from 'http-proxy'
+import * as httpProxy from 'http-proxy'
 import { IncomingMessage, ServerResponse } from 'http';
 import { Context } from 'koa'
 

@@ -1,5 +1,5 @@
 /// <reference types="node" />
-import httpProxy from 'http-proxy';
+import * as httpProxy from 'http-proxy';
 import { IncomingMessage, ServerResponse } from 'http';
 import { Context } from 'koa';
 export default function proxy(ctx: Context, option: httpProxy.ServerOptions): Promise<{
